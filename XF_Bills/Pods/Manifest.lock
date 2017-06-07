@@ -1,0 +1,26 @@
+PODS:
+  - FMDB (2.7):
+    - FMDB/standard (= 2.7)
+  - FMDB/standard (2.7)
+  - Toaster (2.0.3)
+
+DEPENDENCIES:
+  - FMDB (from `https://github.com/robertmryan/fmdb.git`)
+  - Toaster (~> 2.0)
+
+EXTERNAL SOURCES:
+  FMDB:
+    :git: https://github.com/robertmryan/fmdb.git
+
+CHECKOUT OPTIONS:
+  FMDB:
+    :commit: 3c4cf5ad84ff167cdb0e7ce61df14ae7979bdc58
+    :git: https://github.com/robertmryan/fmdb.git
+
+SPEC CHECKSUMS:
+  FMDB: 115114e988a7c92a5191f1334c46c99b0a477700
+  Toaster: 77c0b03d78e680bbbab0071c9c7ee392b0034010
+
+PODFILE CHECKSUM: 3e66f6c6c63c03547a060563c94c980050748aec
+
+COCOAPODS: 1.1.1

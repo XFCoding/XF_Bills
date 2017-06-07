@@ -1,0 +1,6 @@
+framework module Pods_XF_BillsUITests {
+  umbrella header "Pods-XF_BillsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
